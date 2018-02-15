@@ -8,7 +8,7 @@ Access the what3words API functionality easily within Microsoft Excel. A range o
 - Get AutoSuggest results
 - Find nearby 3 word addresses
 
-### [The plugin can be downloaded here.](Installer for what3words Excel Add-in_v1.xls.zip)
+### [The plugin can be downloaded here.](Installer_for_what3words_Excel_Add-in_v1.xls.zip)
 
 ### [The user guide can be downloaded here.](w3w_excel_plugin_user_guide.pdf)
 
