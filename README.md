@@ -21,6 +21,6 @@ Download the zip below which contains a worksheet where you can install the add-
 
 Changelog:
 
-15/02/18 - v.1.0 Initial Release
-27/05/20 - v.2.0 release
-06/10/20 - v.3.0 release
+* 15/02/18 - v.1.0 Initial Release
+* 27/05/20 - v.2.0 release
+* 06/10/20 - v.3.0 release
