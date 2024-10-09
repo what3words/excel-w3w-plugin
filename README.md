@@ -1,5 +1,10 @@
 # Microsoft Excel add-in for what3words
 
+🚨 **DEPRECATION NOTICE** 🚨
+
+> [!WARNING]
+> This repository is no longer being maintained as of October 09, 2024. Please use [Excel add-in](https://developer.what3words.com/tutorial/using-the-what3words-for-excel-add-on) instead.
+
 Access the what3words API functionality easily within Microsoft Excel. A range of what3words-specific functions allow you to:
 
 - Convert a 3 word address to coordinates
@@ -15,12 +20,10 @@ Download the zip below which contains a worksheet where you can install the add-
 
 ### [User Guide](w3w_excel_plugin_user_guide.pdf)
 
-
-*********************************
-
+---
 
 Changelog:
 
-* 15/02/18 - v.1.0 Initial Release
-* 27/05/20 - v.2.0 release
-* 06/10/20 - v.3.0 release
+- 15/02/18 - v.1.0 Initial Release
+- 27/05/20 - v.2.0 release
+- 06/10/20 - v.3.0 release
